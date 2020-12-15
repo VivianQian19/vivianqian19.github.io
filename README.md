@@ -15,4 +15,4 @@ How is misinformation about coronavirus spread on Twitter? In my research projec
 # [Project 3: Predicting Student Attrition](https://github.com/VivianQian19/Student-Attrition-Case-Study)
 This case study uses four data sources. They are Financial Aid data, Static (demographic) data, and Progress data (which include student's GPA for each term), and finally a training set with studentID and labels of whether the student has dropped out. The goal of this case study is to use logistic regression, svm, and decision tree/ random forest to predict whehter or not a student will drop out and find a model with highest accuracy. In doing so, we can find out the best predicators that can explain student attrition. The dataset comes from Bill and Melinda Gates Foundation.
 
-![]()
+![](https://github.com/VivianQian19/vivianqian19.github.io/blob/main/image/Picture3.png)
