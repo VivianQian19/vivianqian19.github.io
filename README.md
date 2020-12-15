@@ -10,6 +10,9 @@ How is nationalism constructed? Scholars have theorized the construction of the 
 
 How is misinformation about coronavirus spread on Twitter? In my research project, I aim to answer this question by taking advantages of large-scale computing tools such as PyWren and PySpark GraphFrames. The project can be broken down into two parts. The first part is collecting tweets using PyWren by mapping a scraper across a list of queries about misinformation. The second part of the project involves running large-scale network analysis of the retweet network of users who retweet misinformation using GraphFrames.
 
+![](https://github.com/VivianQian19/vivianqian19.github.io/blob/main/image/Picture2.png)
 
 # [Project 3: Predicting Student Attrition](https://github.com/VivianQian19/Student-Attrition-Case-Study)
 This case study uses four data sources. They are Financial Aid data, Static (demographic) data, and Progress data (which include student's GPA for each term), and finally a training set with studentID and labels of whether the student has dropped out. The goal of this case study is to use logistic regression, svm, and decision tree/ random forest to predict whehter or not a student will drop out and find a model with highest accuracy. In doing so, we can find out the best predicators that can explain student attrition. The dataset comes from Bill and Melinda Gates Foundation.
+
+![]()
