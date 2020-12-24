@@ -1,4 +1,4 @@
-# I'm Tianyi, Welcome to my portfolio!
+# I'm Tianyi, Welcome to my [portfolio](http://vivianqty19.github.io)!
 
 # [Project 1: MA Thesis: Becoming fans of a Nation: Fandom Nationalism on Weibo](https://drive.google.com/file/d/1q9V5n2iaOt_tfi_GTSlRIa-vGHEusqsB/view?usp=sharing)
 
